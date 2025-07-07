@@ -26,7 +26,6 @@ values[2]="RAHUL"
 print(values) #[1, 2, 'RAHUL', 4, 'keshri', 5, 'Endvalue']
 del values[4]
 print(values) #[1, 2, 'RAHUL', 4, 5, 'Endvalue']
-print(values) #[1, 2, 'RAHUL', 4, 5, 'Endvalue']
-print(values) #[1, 2, 'RAHUL', 4, 5, 'Endvalue']
+#no changes is required
 
 
